@@ -1,0 +1,7 @@
+C:\Users\54115\source\repos\PrimerCorte\bin\Debug\PrimerCorte.exe.config
+C:\Users\54115\source\repos\PrimerCorte\bin\Debug\PrimerCorte.exe
+C:\Users\54115\source\repos\PrimerCorte\bin\Debug\PrimerCorte.pdb
+C:\Users\54115\source\repos\PrimerCorte\obj\Debug\PrimerCorte.csprojAssemblyReference.cache
+C:\Users\54115\source\repos\PrimerCorte\obj\Debug\PrimerCorte.csproj.CoreCompileInputs.cache
+C:\Users\54115\source\repos\PrimerCorte\obj\Debug\PrimerCorte.exe
+C:\Users\54115\source\repos\PrimerCorte\obj\Debug\PrimerCorte.pdb
